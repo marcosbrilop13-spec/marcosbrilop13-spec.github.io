@@ -40,7 +40,7 @@ ul {
 
 .bottom .container {
     height: 450px;
-    background-image: url('error_404.png');
+    background-image: url('/error_404.png');
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-position: 300px 0;
