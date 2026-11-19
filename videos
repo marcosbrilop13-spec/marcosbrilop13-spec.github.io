@@ -1,0 +1,206 @@
+<html lang="en">
+<head>
+
+
+
+
+
+
+
+
+
+
+
+<title>Dashboard - GoAnimate For Schools Remastered</title>
+
+
+
+<meta name="description" content="The Character Creator from GoAnimate - Create a character online with GoAnimate.">
+
+<meta property="og:site_name" content="GoAnimate for Schools">
+
+
+
+
+
+<link rel="stylesheet" href="/html/css/common_combined.css.gz.css">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700">
+
+
+
+
+<script src="/html/js/common_combined.js.gz.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/js/recordConsoleEvents.js"></script></head>  </header>
+
+		<nav class="navbar site-nav" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            <a class="navbar-brand" href="/m/movies" title="GoAnimate for Schools Remastered">
+                <img alt="GoAnimate for Schools" src="/html/img/logo4s.png">
+            </a>
+        </div>
+
+        <ul class="nav site-nav-alert-nav hidden-xs">
+            <li>
+                <a href="/messages" title="Messages"><span class="glyphicon glyphicon-envelope"></span><span class="count"></span></a>
+            </li>
+            <li>
+                <a href="/notifications" title="Notifications"><span class="glyphicon glyphicon-bell"></span><span class="count"></span></a>
+            </li>
+        </ul>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-right">
+
+<li class="dropdown">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Your Account <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/c/dashboard">Dashboard</a></li>
+                        <li><a href="/m/movies">Your Videos</a></li>
+                        <li class="divider"></li>
+                        <li><a href="/account">Account Settings</a></li>
+                        <li><a href="/profile">Your Profile</a></li>
+                        <li class="divider"></li>
+                        <li><a class="logout-link" href="/logoff">Logout</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Explore <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/students">Students</a></li>
+                        <li><a href="/teachers">Teachers</a></li>
+                        <li><a href="/dashboard/videos">Videos</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://discord.gg/yhGAetN">Educator Experiences</a></li>
+                        <li><a href="/public_faq">FAQ</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a class="hidden-sm hidden-md hidden-lg" href="/c/create">Make a Video</a>
+                    <span class="site-nav-btn hidden-xs"><a class="btn btn-green" href="/c/create">Make a Video</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+  <main>
+    <div class="top-bar">
+      <h1>Explore Videos</h1>
+      <form class="search-box">
+        <button type="submit">🔍</button>
+        <input type="text" placeholder="Search video by username or group...">
+      </form>
+    </div>
+
+
+    <div class="pagination">
+      « &lt; Page <input type="text" value="1"> of 1 &gt; »
+    </div>
+  </main>
+
+<footer class="site-footer hidden-print">
+    <div class="container">
+        <div class="row site-footer-nav">
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>About GoAnimate</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate.com/about">Who We Are</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate.com/contactus">Contact Us</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate.com/video-maker-tips">Blog</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://press.goanimate.com/">Press</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>GoAnimate Solutions</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate4schools.com/" target="_blank">GoAnimate for Schools</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>Usage Guidelines</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/termsofuse">Terms of Service</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/privacy">Privacy Policy</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>Getting Help</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/https://blog.goanimate4schools.com/">Educator Experiences</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate4schools.zendesk.com/hc/en-us">Help Center</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row site-footer-copyright">
+            <div class="col-sm-6">
+                <div class="site-footer-socials-container">
+                    Follow us on:
+                    <ul class="site-footer-socials clearfix">
+                        <li><a class="youtube" href="https://www.youtube.com/channel/UCTxlSNvRt0ZPqege2pnHiCw">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="pull-right">
+                    <img src="/html/img/logo_amazon.png" alt="AWS Partner Network">
+                    &nbsp;&nbsp;&nbsp;
+                    GoAnimate © 2026
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+
+<div id="studio_container" style="display: none;">
+    <div id="studio_holder"><!-- Full Screen Studio -->
+        <div style="top: 50%; position: relative;">
+            You can't use GoAnimate because Flash might be disabled. <a href="https://web.archive.org/web/20180713073641/https://get.adobe.com/flashplayer/">Enable Flash</a>.
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
