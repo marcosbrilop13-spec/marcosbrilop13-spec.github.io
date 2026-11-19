@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html><head>
+<title>GoAnimate For Schools Remastered - Your video list</title><link rel="stylesheet" href="/html/css/common_combined.css.gz.css">
+<link rel="stylesheet" href="/html/css/genericlogin.css.gz.css">
+<script src="/html/js/common_combined.js"></script>
+</head>
+<body>
+	<header>
+		<nav class="navbar site-nav" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            <a class="navbar-brand" href="/m/movies" title="GoAnimate for Schools Remastered">
+                <img alt="GoAnimate for Schools" src="/html/img/logo4s.png">
+            </a>
+        </div>
+
+        <ul class="nav site-nav-alert-nav hidden-xs">
+            <li>
+                <a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/messages" title="Messages"><span class="glyphicon glyphicon-envelope"></span><span class="count"></span></a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/notifications" title="Notifications"><span class="glyphicon glyphicon-bell"></span><span class="count"></span></a>
+            </li>
+        </ul>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-right">
+
+<li class="dropdown">
+                    <a class="dropdown-toggle" href="themelist.html" data-toggle="dropdown">Your Account <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/student">Dashboard</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/movies">Your Videos</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/account">Account Settings</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/profile/00lbzOKBnEro">Your Profile</a></li>
+                        <li class="divider"></li>
+                        <li><a class="logout-link" href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/logoff">Logout</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" href="themelist.html" data-toggle="dropdown">Explore <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/students">Students</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/teachers">Teachers</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/videos">Videos</a></li>
+                        <li class="divider"></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://blog.goanimate4schools.com/">Educator Experiences</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/public_faq">FAQ</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a class="hidden-sm hidden-md hidden-lg" href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/create">Make a Video</a>
+                    <span class="site-nav-btn hidden-xs"><a class="btn btn-green" href="/c/create">Make a Video</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+  <div class="container">
+    <h1>Dashboard</h1>
+
+<div class="url-reminder">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h4>Join a group</h4>
+                    </div>
+                </div>
+            <p>Enter the code for the group you want to join</p>
+            <form class="input-row" onsubmit="event.preventDefault();">
+              <input type="text" aria-label="Group code">
+                            <button type="submit" class="btn btn-default">Join Group</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+	<footer class="site-footer hidden-print">
+    <div class="container">
+        <div class="row site-footer-nav">
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>About GoAnimate</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate.com/about">Who We Are</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate.com/contactus">Contact Us</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate.com/video-maker-tips">Blog</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://press.goanimate.com/">Press</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>GoAnimate Solutions</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate4schools.com/" target="_blank">GoAnimate for Schools</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>Usage Guidelines</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/termsofuse">Terms of Service</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/http://vyondhoster.000webhostapp.com/privacy">Privacy Policy</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-3">
+                <div class="site-footer-nav-col">
+                    <h5>Getting Help</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="https://web.archive.org/web/20181004174617/https://blog.goanimate4schools.com/">Educator Experiences</a></li>
+                        <li><a href="https://web.archive.org/web/20181004174617/https://goanimate4schools.zendesk.com/hc/en-us">Help Center</a></li>
+                        <li class="hidden-xs">&nbsp;</li>
+                        <li class="hidden-xs">&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <div class="row site-footer-copyright">
+            <div class="col-sm-6">
+                <div class="site-footer-socials-container">
+                    Follow us on:
+                    <ul class="site-footer-socials clearfix">
+                        <li><a class="facebook" href="https://web.archive.org/web/20181004174617/https://www.facebook.com/GoAnimateInc">Facebook</a></li>
+                        <li><a class="twitter" href="https://web.archive.org/web/20181004174617/https://twitter.com/Go4Schools">Twitter</a></li>
+                        <li><a class="linkedin" href="https://web.archive.org/web/20181004174617/https://www.linkedin.com/company/goanimate">Linked In</a></li>
+                        <li><a class="gplus" href="https://web.archive.org/web/20181004174617/https://plus.google.com/+goanimate">Google+</a></li>
+                        <li><a class="youtube" href="https://web.archive.org/web/20181004174617/https://www.youtube.com/user/GoAnimate">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="pull-right">
+                    <img src="/html/img/logo_amazon.png" alt="AWS Partner Network">
+                    &nbsp;&nbsp;&nbsp;
+                    GoAnimate © 2018
+                </div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+</body>
+</html>
